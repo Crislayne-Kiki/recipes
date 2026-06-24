@@ -2,6 +2,8 @@ Ingredients:
 - 2 avocados
 - 1 lime
 - 2 tsp salt
+- jalapeno to taste
+- 1/2 red onion
 - jalapeno
 - 1 medium onion 
 
