@@ -2,7 +2,9 @@ Ingredients:
 - 2 avocados
 - 1 lime
 - 2 tsp salt
--jalapeno 
+- jalapeno
+- 1 medium onion 
+
 Instructions:
 - cut and mash avocados
 - chop onion
